@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tesla24byte (Yael Hernández Valencia)
-- 👀 I’m interested in learn and colaborate in software programs and I create new solutions
+-  I’m interested in learn and colaborate in software programs and I create new solutions
 -  I’m currently learning C#
 -  I'm mechatronics engineer
   
