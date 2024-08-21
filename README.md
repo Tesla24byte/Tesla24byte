@@ -2,6 +2,7 @@
 -  I’m interested in learn and colaborate in software programs and I create new solutions
 -  I’m currently learning C#
 -  I'm mechatronics engineer
+-  Data analyst 
   
 
 <!---
